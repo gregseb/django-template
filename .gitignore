@@ -1,0 +1,5 @@
+__pycache__/
+db.sqlite3
+
+config/settings/local.py
+config/settings/production.py

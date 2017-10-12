@@ -1,2 +1,2 @@
 django==1.11
-django-environ==0.4.1
+django-environ==0.4.4

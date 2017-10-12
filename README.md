@@ -17,6 +17,15 @@ intend to use a ReactJS frontend.
 A great way to install NodeJS is using the nodesource distributions here: https://github.com/nodesource/distributions
 
 
+### Installation
+
+1. Download the latest release or master branch
+1. Copy and edit the settings files as needed.
+    
+    `cp ./config/settings/example.local.py ./config/settings/local.py`
+1. Alter the License file as needed.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
